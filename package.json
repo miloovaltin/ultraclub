@@ -1,16 +1,16 @@
 {
-"name": "ultraclub",
-"theme": "ultraclub",
-"version": "7.10.4",
-"description": "ultraclub ทางเข้าหลักเว็บคาสิโนเว็บตรง อันดับ 1 ให้โบนัสเครดิตฟรี",
-"keywords": [
-"ultraclub",
-"ultraclub เครดิตฟรี",
-"ultraclub ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/ultraclub",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "ultraclub",
+  "theme": "ultraclub",
+  "version": "7.11.0",
+  "description": "ultraclub ทางเข้าหลักเว็บคาสิโนเว็บตรง อันดับ 1 ให้โบนัสเครดิตฟรี",
+  "keywords": [
+    "ultraclub",
+    "ultraclub เครดิตฟรี",
+    "ultraclub ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/ultraclub",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
